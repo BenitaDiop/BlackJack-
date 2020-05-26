@@ -26,7 +26,12 @@ $H1: ρ ≠ 0$ `the population correlation coefficient is not 0; a nonzero corre
 
 The sample correlation coefficient between two variables x and y is denoted r or rxy, and can be computed as:
 
-$$r_{xy} = \frac{\mathrm{cov}(x,y)}{\sqrt{\mathrm{var}(x)} \dot{} \sqrt{\mathrm{var}(y)}} \; \;$$
+
+
+$$r_{xy} = \frac{\mathrm{cov}(x,y)}{\sqrt{\mathrm{var}(x)} \dot{} \sqrt{\mathrm{var}(y)}}$$
+
+
+
 
 <br> 
  
